@@ -1,5 +1,5 @@
 # blackjack-react
-Blackjack card game built with React and NodeJS
+Blackjack card game built with TypeScript React and NodeJS
 
 # Install Guide
   ## Software
