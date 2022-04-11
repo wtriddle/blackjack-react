@@ -1,6 +1,6 @@
 # blackjack-react
 Blackjack card game built with TypeScript React and NodeJS
-
+![](https://github.com/wtriddle/blackjack-react/blob/master/landing_page.png)
 # Install Guide
   ## Software
     1. postgresql
